@@ -2,7 +2,9 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">my app</div>
+    <section className="App">
+      <header>Nav</header>
+    </section>
   );
 }
 
